@@ -18,7 +18,7 @@
 
 # Fortran module files
 *.mod
-*.smod
+*.smod d*exe/ln nlne*ssl lyv
 
 # Compiled Static libraries
 *.lai
